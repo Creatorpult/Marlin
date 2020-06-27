@@ -28,20 +28,20 @@
 /**
  * Marlin release version identifier
  */
-//#define SHORT_BUILD_VERSION "2.0.5.3"
+#define SHORT_BUILD_VERSION "2.0.5.3"
 
 /**
  * Verbose version identifier which should contain a reference to the location
  * from where the binary was downloaded or the source code was compiled.
  */
-//#define DETAILED_BUILD_VERSION SHORT_BUILD_VERSION " (Github)"
+#define DETAILED_BUILD_VERSION SHORT_BUILD_VERSION " (Creatorpult Ender 3 Direct Drive)"
 
 /**
  * The STRING_DISTRIBUTION_DATE represents when the binary file was built,
  * here we define this default string as the date where the latest release
  * version was tagged.
  */
-//#define STRING_DISTRIBUTION_DATE "2020-01-31"
+#define STRING_DISTRIBUTION_DATE "06-26-2020"
 
 /**
  * Defines a generic printer name to be output to the LCD after booting Marlin.
